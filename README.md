@@ -221,4 +221,7 @@ end
 [has_secure_password]: http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html
 [try]: http://api.rubyonrails.org/classes/Object.html#method-i-try
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-has_secure_password_readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-has_secure_password_readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Using `has_secure_password`</p>
